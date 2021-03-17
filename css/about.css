@@ -1,7 +1,7 @@
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    background-color: rgb(223, 195, 160);
+    background-color: rgb(221, 212, 200);
 }
 
 p {
@@ -9,9 +9,9 @@ p {
 }
 
 .about {
-    background:rgb(168, 15, 46);
+    background:rgb(11, 20, 100);
     padding: 1px;
-    color: gold;
+    color: whitesmoke;
 }
 
 img {
@@ -20,6 +20,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 15px;
 }
 
 .row {

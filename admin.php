@@ -29,7 +29,7 @@
         <div class="my-auto">
             <form action="includes/gallery-helper.php" method="POST" enctype="multipart/form-data">
                 <div class="form-group">
-                    <img src="images/dobby.jpeg" alt="profile pic" onclick="triggered();" id="gallery-display">
+                    <img src="images/dobby.jpeg" style="margin: 15px; border-radius: 30%;" alt="profile pic" onclick="triggered();" id="gallery-display">
                     <input type="file" name="gallery-image" id="gallery-image" onchange="preview[this]" class="form-control"
                         style="display: none;">
                     <input type="text" name="title" class="form-control" placeholder="title">

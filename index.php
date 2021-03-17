@@ -7,7 +7,7 @@
 
     <div class="about">
         <h1 style = "text-decoration: underline">About Us</h1>
-        <p style = "color: gold">Welcome to the Muggle World! We are here to provide our insight on all things muggle! We welcome wizards of all kinds.</p>
+        <p style = "color: whitesmoke">Welcome to the Muggle World! We are here to provide our insight on all things muggle! We welcome wizards of all kinds.</p>
     </div>
     <div class="row">
         <div class="column">
