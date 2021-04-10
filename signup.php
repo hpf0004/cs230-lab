@@ -22,7 +22,7 @@ require "includes/header.php"
                             </div>
                         </div>
                         <input type="text" class="form-control" name="uname" placeholder="Username" required="required" autofocus>
->
+
                         <input type="email" id="inputEmail" class="form-control" name="email" placeholder="Email address" required="required"
                             autofocus>
                         <input type="password" id="inputPassword" class="form-control" name="pwd" placeholder="Password" required="required">
